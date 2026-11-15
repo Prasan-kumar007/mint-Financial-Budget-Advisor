@@ -8,7 +8,7 @@ The application combines logical reasoning, search algorithms, rational agent co
 
 ## Live Demo
 
-**Deployment Link:** [click here to go](https://ai-based-financial-budget-advisor.netlify.app/<target=newtab/>)
+**Deployment Link:** [click here to go](https://ai-based-financial-budget-advisor.netlify.app/)
 
 ## Features
 
